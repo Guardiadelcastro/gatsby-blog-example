@@ -1,7 +1,9 @@
 ---
-title: "My example blog post"
+path: '/my-example-blog-post'
+title: 'My example blog post'
 description: This post is related to the gatsbyjs
-date: '2019-02-26'
+date: '26-02-2019'
+author: 'Alejandro Castro de la Guardia'
 image: ''
 ---
 
