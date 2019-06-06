@@ -1,5 +1,5 @@
 ---
-path: '/my-example-blog-post'
+path: '/blog/my-example-blog-post'
 title: 'My example blog post'
 description: This post is related to the gatsbyjs
 date: '26-02-2019'
